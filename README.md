@@ -56,11 +56,12 @@ I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend l
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/APP-SLACK-informational?style=flat&logo=Slack&logoColor=white&color=4AB197)
+![Slack](https://img.shields.io/badge/Tools-SLACK-informational?style=flat&logo=Slack&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Server-Laragon-informational?style=flat&logo=laragon&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Server-Xampp-informational?style=flat&logo=xampp&logoColor=white&color=4AB197)
 ![Atom](https://img.shields.io/badge/IDE-Atom-%2366595C.svg?style=flat&logo=atom&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
+![Trello](https://img.shields.io/badge/Tools-Trello-International?style=flat&logo=trello&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 
