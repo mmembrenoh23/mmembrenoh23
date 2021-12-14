@@ -25,6 +25,7 @@ I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend l
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
 ![](https://img.shields.io/packagist/php-v/laravel/framework?label=Laravel%20-%20Framework&logo=laravel)
+![WordPress](https://img.shields.io/badge/CODE-WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
 
 ### CMS Plugins
 ![](https://img.shields.io/wordpress/plugin/wp-version/fusion?label=Fusion%20Builder&logo=wordpress)
