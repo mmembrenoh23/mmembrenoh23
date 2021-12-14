@@ -31,6 +31,8 @@ I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend l
 ![](https://img.shields.io/wordpress/plugin/wp-version/fusion?label=Fusion%20Builder&logo=wordpress)
 ![](https://img.shields.io/wordpress/plugin/wp-version/advanced-custom-fields?logo=wordpress)
 ![](https://img.shields.io/wordpress/plugin/required-php/advanced-custom-fields?label=ACF&logo=wordpress)
+![](https://img.shields.io/badge/Plugin-ToolsetBlocks-informational?style=flat&logo=wordpress&logoColor=white)
+![](https://img.shields.io/badge/Plugin-ToolsetMaps-informational?style=flat&logo=wordpress&logoColor=white)
 
 ### Database
 
