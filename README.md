@@ -76,7 +76,7 @@ I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend l
 
 ## 📌 Pinned Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mmembrenoh23&repo=gulppractice&theme=onedark&show_icons=true)](https://github.com/mmembrenoh23/gulppractice)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mmembrenoh23&repo=04-spotiapp&theme=onedark&show_icons=true)](https://github.com/mmembrenoh23/spotiapp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mmembrenoh23&repo=spotiapp&theme=onedark&show_icons=true)](https://github.com/mmembrenoh23/spotiapp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mmembrenoh23&repo=frontend-covid&theme=onedark&show_icons=true)](https://github.com/mmembrenoh23/frontend-covid)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mmembrenoh23&repo=SassPractice&theme=onedark&show_icons=true)](https://github.com/mmembrenoh23/SassPractice)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mmembrenoh23&repo=backend-covid&theme=onedark&show_icons=true)](https://github.com/mmembrenoh23/backend-covid)
