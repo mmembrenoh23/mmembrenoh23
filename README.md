@@ -14,6 +14,8 @@ I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend l
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Script-Gulp-informational?style=flat&logo=Gulp&logoColor=white&color=4AB197)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
 
 ### Backend
 
@@ -31,6 +33,7 @@ I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend l
 ### Database
 
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=MariaDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/SQL-SERVER-brightgreen?logo=microsoft-sql-server&style=flat)
 
 ### Tools
@@ -41,6 +44,11 @@ I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend l
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)
+![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/APP-SLACK-informational?style=flat&logo=Slack&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Server-Laragon-informational?style=flat&logo=laragon&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Server-Xampp-informational?style=flat&logo=xampp&logoColor=white&color=4AB197)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 
