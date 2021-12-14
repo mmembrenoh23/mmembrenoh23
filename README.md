@@ -28,6 +28,7 @@ I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend l
 ### Database
 
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/SQL-SERVER-brightgreen?logo=microsoft-sql-server&style=flat)
 
 ### Tools
 
@@ -44,6 +45,9 @@ I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend l
 <a href="https://github.com/mmembrenoh23">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmembrenoh23&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 
+<a href="https://github.com/mmembrenoh23">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mmembrenoh23&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Maria's GitHub Stats" />
+</a>
 
 <!--
 **mmembrenoh23/mmembrenoh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
