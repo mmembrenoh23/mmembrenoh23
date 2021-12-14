@@ -61,10 +61,10 @@ I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend l
 <br>
 
 <a href="https://github.com/mmembrenoh23">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmembrenoh23&langs_count=15&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmembrenoh23&langs_count=8&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 
 <a href="https://github.com/mmembrenoh23">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mmembrenoh23&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Maria's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mmembrenoh23&theme=radical" alt="Maria's GitHub Stats" />
 </a>
 
 ## 📌 Pinned Repositories
