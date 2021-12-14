@@ -11,13 +11,14 @@ I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend l
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/gulp-CLI%20V2.3-yellowgreen&style=flat&logo=Gulp)
 
 ### Backend
 
 [](https://img.shields.io/badge/php-%3E%3D5.5-blue)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/packagist/php-v/laravel/framework?label=Laravel%20-%20Framework)
+![](https://img.shields.io/packagist/php-v/laravel/framework?label=Laravel%20-%20Framework&logo=laravel)
 
 ### CMS Plugins
 ![](https://img.shields.io/wordpress/plugin/wp-version/fusion?label=Fusion%20Builder&logo=wordpress)
