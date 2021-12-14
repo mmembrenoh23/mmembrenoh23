@@ -1,5 +1,8 @@
-### Hi there 👋
+### About me
 
+I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend language and JQuery, Bootstrap and Angular as frontend; development of Web Services with WFC, management of database managers SQL Server, MySQL, Oracle, MariaDB. Self-taught and open to learn new technologies and agile development methodologies.
+
+- 🌱 I’m currently learning Angular, React, Yarn.
 <!--
 **mmembrenoh23/mmembrenoh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
