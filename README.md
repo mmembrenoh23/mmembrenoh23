@@ -53,7 +53,8 @@ I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend l
 ![](https://img.shields.io/badge/APP-SLACK-informational?style=flat&logo=Slack&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Server-Laragon-informational?style=flat&logo=laragon&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Server-Xampp-informational?style=flat&logo=xampp&logoColor=white&color=4AB197)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![Atom](https://img.shields.io/badge/IDE-Atom-%2366595C.svg?style=flat&logo=atom&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 
