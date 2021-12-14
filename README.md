@@ -1,4 +1,5 @@
-### About me
+[![Marias's GitHub Banner](./assets/mycustombanner.png)]
+## Who I am ?
 
 I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend language and JQuery, Bootstrap and Angular as frontend; development of Web Services with WFC, management of database managers SQL Server, MySQL, Oracle, MariaDB. Self-taught and open to learn new technologies and agile development methodologies.
 
