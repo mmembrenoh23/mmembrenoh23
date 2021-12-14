@@ -9,13 +9,16 @@ I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend l
 ### Frontend 
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Script-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Script-JQuery-informational?style=flat&logo=JQuery&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/gulp-CLI%20V2.3-yellowgreen&style=flat&logo=Gulp)
+![](https://img.shields.io/badge/Script-Gulp-informational?style=flat&logo=Gulp&logoColor=white&color=4AB197)
 
 ### Backend
 
-[](https://img.shields.io/badge/php-%3E%3D5.5-blue)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
 ![](https://img.shields.io/packagist/php-v/laravel/framework?label=Laravel%20-%20Framework&logo=laravel)
