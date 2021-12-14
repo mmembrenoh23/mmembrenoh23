@@ -66,9 +66,9 @@ I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend l
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mmembrenoh23&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Maria's GitHub Stats" />
 </a>
 
-## Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mmembrenoh23&repo=github-readme-stats)](https://github.com/mmembrenoh23/gulppractice)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mmembrenoh23&repo=github-readme-stats)](https://github.com/mmembrenoh23/frontend-covid)
+## 📌 Pinned Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mmembrenoh23&repo=gulppractice)](https://github.com/mmembrenoh23/gulppractice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mmembrenoh23&repo=frontend-covid)](https://github.com/mmembrenoh23/frontend-covid)
 <!--
 **mmembrenoh23/mmembrenoh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
