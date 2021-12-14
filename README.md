@@ -15,11 +15,12 @@ I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend l
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Script-Gulp-informational?style=flat&logo=Gulp&logoColor=white&color=4AB197)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/html5blank-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
+
 
 ### Backend
 
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
@@ -35,6 +36,7 @@ I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend l
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=MariaDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/SQL-SERVER-brightgreen?logo=microsoft-sql-server&style=flat)
+![SQLite](https://img.shields.io/badge/Database-sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
 ### Tools
 
