@@ -75,6 +75,7 @@ I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend l
 </a>
 
 ## 📌 Pinned Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mmembrenoh23&repo=CRA-Practice&theme=onedark&show_icons=true)](https://github.com/mmembrenoh23/CRA-Practice)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mmembrenoh23&repo=gulppractice&theme=onedark&show_icons=true)](https://github.com/mmembrenoh23/gulppractice)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mmembrenoh23&repo=spotiapp&theme=onedark&show_icons=true)](https://github.com/mmembrenoh23/spotiapp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mmembrenoh23&repo=frontend-covid&theme=onedark&show_icons=true)](https://github.com/mmembrenoh23/frontend-covid)
