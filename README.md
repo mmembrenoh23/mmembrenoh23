@@ -74,10 +74,10 @@ I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend l
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mmembrenoh23&theme=onedark&show_icons=true" alt="Maria's GitHub Stats" />
 </a>
 
-## 📌 Pinned Repositories
+## 📌 Pinned Repositories practice
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mmembrenoh23&repo=CRA-Practice&theme=onedark&show_icons=true)](https://github.com/mmembrenoh23/CRA-Practice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mmembrenoh23&repo=PWA-Practice&theme=onedark&show_icons=true)](https://github.com/mmembrenoh23/PWA-Practice)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mmembrenoh23&repo=gulppractice&theme=onedark&show_icons=true)](https://github.com/mmembrenoh23/gulppractice)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mmembrenoh23&repo=spotiapp&theme=onedark&show_icons=true)](https://github.com/mmembrenoh23/spotiapp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mmembrenoh23&repo=frontend-covid&theme=onedark&show_icons=true)](https://github.com/mmembrenoh23/frontend-covid)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mmembrenoh23&repo=SassPractice&theme=onedark&show_icons=true)](https://github.com/mmembrenoh23/SassPractice)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=mmembrenoh23&repo=backend-covid&theme=onedark&show_icons=true)](https://github.com/mmembrenoh23/backend-covid)
