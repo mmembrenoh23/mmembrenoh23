@@ -5,7 +5,7 @@
 
 I'm a Full Stack Developer +4 years of experience, using PHP and C# as backend language and JQuery, Bootstrap and Angular as frontend; development of Web Services with WFC, management of database managers SQL Server, MySQL, Oracle, MariaDB. Self-taught and open to learn new technologies and agile development methodologies.
 
-- 🌱 I’m currently learning ![Angular](https://img.shields.io/badge/Angular-50%25-International?style=flat&logo=angular&logoColor=white), ![React](https://img.shields.io/badge/React-10%25-International?style=flat&logo=react&logoColor=white), ![Yarn](https://img.shields.io/badge/Yarn-70%25-International?style=flat&logo=yarn&logoColor=white).
+- 🌱 I’m currently learning ![Angular](https://img.shields.io/badge/Angular-50%25-International?style=flat&logo=angular&logoColor=white), ![React](https://img.shields.io/badge/React-20%25-International?style=flat&logo=react&logoColor=white), ![Yarn](https://img.shields.io/badge/Yarn-70%25-International?style=flat&logo=yarn&logoColor=white).
 
 ### Contact Info
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ma-jose-herrera/)
